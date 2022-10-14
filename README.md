@@ -1,1 +1,9 @@
 # VisuaWeather
+
+The VisuaWeather web application has been developed for profit I decided to put my knowledge and experience to good suse and create a top-quality application that clearly displays meteorological data from around the world and allows you to monitor weather development for any place on earth open source.
+
+The Earth's weather functions as an interdependent system. For example, a hurricane in the Atlantic has the ability to influence the distribution of pressure formations in Europe. Occasionally, it may even make its way to Europe itself as a post-tropical storm. The VisuaWeather application allows for the illustration of the interdependence of the entire system, displaying the development of pressure, wind, cloud cover, precipitation, and temperature on the map.
+
+For visualisation of wind data, I utilise current lines that are used to illustrate the movement of particles in liquids. Air current lines are suitable for illustrating wind as well. Because of this, the map depicts wonderful formations illustrating pressure lows that draw in the air around them. I have created an entirely new system of displaying waves. Through the use of animated arcs, my visualisation clearly differentiates the direction of movement and height of both wind waves and swells. For the other meteorological elements, I chose color scales that appropriately illustrate precipitation, air pressure, and temperature. The colors correspond with the feeling that the given weather phenomena evokes in me. For temperature, blue for cool weather while dark red depicts furnace-like hot desert air. For snow and rain, blues represent low rainfall totals that will not result in floods. Orange and red hues, are dangerously high rainfall rates
+
+The VisuaWeather application is  accessible to anyone around the world, with source it's aimed at improving awareness about meteorological events in our atmosphere. and thus help us achieve my goal.
