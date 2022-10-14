@@ -1,6 +1,6 @@
 # VisuaWeather
 
-The VisuaWeather web application has been developed for profit I decided to put my knowledge and experience to good suse and create a top-quality application that clearly displays meteorological data from around the world and allows you to monitor weather development for any place on earth open source.
+The VisuaWeather web application has been developed since I decided to put my knowledge and experience to good use and create an app that beautifully displays meteorological data from around the world and allows you to monitor weather development for any place on earth open source.
 
 The Earth's weather functions as an interdependent system. For example, a hurricane in the Atlantic has the ability to influence the distribution of pressure formations in Europe. Occasionally, it may even make its way to Europe itself as a post-tropical storm. The VisuaWeather application allows for the illustration of the interdependence of the entire system, displaying the development of pressure, wind, cloud cover, precipitation, and temperature on the map.
 
